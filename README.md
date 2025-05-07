@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/Estudos-ktFigura/github-readme-stats" style="display: inline-block; margin-right: 10px;">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Estudos-ktFiguraa&theme=tokyonight" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Estudos-ktFigura&theme=tokyonight" />
   </a>
   <a href="https://github.com/Estudos-ktFigura/convoychat" style="display: inline-block;">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estudos-ktFigura&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
